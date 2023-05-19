@@ -40,12 +40,6 @@ author_work_experiences:
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
               visibility: true
-           - company_name: American Airlines
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true    
 # Education
 author_education_details:
               - college_logo: mit.png
