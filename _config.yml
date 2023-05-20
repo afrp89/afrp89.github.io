@@ -19,26 +19,50 @@ urls:
 
 author_logo: profile.png
 author: Andrés Redondo
-author_bio: Hi, my name is Andrés. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Andrés. https://www.linkedin.com/in/afrp89/
 author_email: "andres@dondo.com.co"
 author_location: Argentina
 author_website_url: "https://dondo.com.co"
-typewrite-text: I solve problems for a living. Writing in Go, Kotlin, Python, Java and you name it. 
+typewrite-text: I solve problems and get things done for a living.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Hewlett Packard
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: DondoCorp
+              company_logo: logo.png
+              company_url: https://www.linkedin.com/company/dondocorp
+              designation: CEO
+              description: I keep the show running.
+              visibility: true
+            - company_name: Nauto
+              company_logo: nauto_logo.png
+              company_url: https://www.linkedin.com/company/nauto/
+              designation: Technical Lead
+              description: Cloud Transition Engineer
+              visibility: true
+            - company_name: Banco Santander
+              company_logo: santander_logo.png
+              company_url: https://www.linkedin.com/company/santandertec/
+              designation: Technical Lead
+              description: Refactored the broker logic while coliving with the Mainframe solution. Coached the backend team to switch from Java into Kotlin
+              visibility: true
+            - company_name: Rappi Inc
+              company_logo: rappi_logo.png
+              company_url: https://www.linkedin.com/company/rappi/
+              designation: Technical Lead
+              description: Designed and Implemented the Loyalty and rewards program. Increasing the revenue 13% monthly.
               visibility: true
             - company_name: American Airlines
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              company_logo: aa_logo.png
+              company_url: https://www.linkedin.com/company/american-airlines/
+              designation: Software Engineer
+              description: Developed products aimed for customers and SMBs for the Loyalty Program.
+              visibility: true
+            - company_name: Hewlett Packard
+              company_logo: hp_logo.png
+              company_url: https://www.linkedin.com/company/hp/
+              designation: Solution Engineer
+              description: Solutions designer for the presales team.
               visibility: true
 # Education
 author_education_details:
@@ -56,42 +80,14 @@ author_project_details:
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
-
-#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
-
-# disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+github_username:  afrp89
+linkedin_username: afrp89
+medium_username: afrp89
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
-
-# mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
-
-# contact form - (choose formspress or getform)
-# getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
-
-# releases - widget can be (sidebar, modal or embed)
-olvy_organization: devlopr
-olvy_widget_type: sidebar
+wakatime_username: afrp89
 
 # syntax highlighter
 markdown: kramdown
@@ -126,7 +122,7 @@ paginate_path: "/blog/page/:num/"
 
 collections:
   products:
-    output: true
+    output: false
   authors:
     output: true
 
