@@ -6,7 +6,7 @@ author: xplor4r
 date: '2020-10-25 1:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
+keywords: devlopr jekyll, how to use devlopr, devlopr, how to use afrp89.github.io, afrp89.github.io tutorial,best jekyll themes, multi author
 usemathjax: true
 permalink: /blog/added-multi-author-support/
 ---
@@ -28,7 +28,7 @@ name: John Doe # Name of the Author
 username: johndoe # Username of the Author
 bio: "Hi I a John, a Web Developer and Designer." # Author Bio
 site: http://johndoe.com  # Author Website URL
-avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
+avatar: dondo.png  # Profile Image (img path will be /assets/img/authors/dondo.png)
 email: mail@johndoe.com  # Author Email address
 social:  # Author Social profile links
     - title: "github"
@@ -65,7 +65,7 @@ johndoe:
    name: John Doe
    username: johndoe
    site: http://johndoe.com
-   avatar: johndoe.png
+   avatar: dondo.png
    bio: "Hi I a John, a Web Developer and Designer."
    email: mail@johndoe.com
    social:

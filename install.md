@@ -4,7 +4,7 @@ layout: page
 permalink: /get-started/
 ---
 
-## Getting Started - How to use “devlopr-jekyll” theme
+## Getting Started - How to use “afrp89.github.io” theme
 
 ## What's Jekyll ?
 
@@ -15,9 +15,9 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXBEfpn0qrg?rel=0&amp;controls=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+### Steps to create your blog using afrp89.github.io and Host using Github Pages :
 
->  **Step 1.**  Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
+>  **Step 1.**  Fork the repo - [click here](https://github.com/afrp89/afrp89.github.io/fork)
 
 ![Devlopr Jekyll Repo](/assets/img/posts/fork1.PNG){:class="img-fluid"}
 
@@ -113,7 +113,7 @@ Visit [http://localhost:4000](http://localhost:4000) for development server
 
 ### Adding Content
 
-Start populating your blog by adding your .md files in _posts. devlopr-jekyll already has a few examples.
+Start populating your blog by adding your .md files in _posts. afrp89.github.io already has a few examples.
 
 #### YAML Post Example:
 
@@ -157,7 +157,7 @@ Once happy with your blog changes. Push your changes to master branch.
 
 ```bash
  $ git add .
- $ git commit -m "my new blog using devlopr-jekyll"
+ $ git commit -m "my new blog using afrp89.github.io"
  $ git push origin master
 ```
 

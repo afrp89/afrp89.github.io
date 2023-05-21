@@ -11,9 +11,6 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Contact
-      url : /contact
-
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
@@ -66,9 +63,15 @@ author_work_experiences:
               visibility: true
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
+              - college_logo: uba.png
+                college_name: Universidad de Buenos Aires
+                college_url: https://uba.ar/
+                college_degree: MBA
+                description: Public Technology MBA
+                visibility: true
+              - college_logo: uniandes.png
+                college_name: Universidad de Los Andes
+                college_url: https://uniandes.edu.co/
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true

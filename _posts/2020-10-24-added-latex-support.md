@@ -6,7 +6,7 @@ author: xplor4r
 date: '2020-10-24 10:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+keywords: devlopr jekyll, how to use devlopr, devlopr, how to use afrp89.github.io, afrp89.github.io tutorial,best jekyll themes
 usemathjax: true
 permalink: /blog/added-latex-equations-support/
 ---
